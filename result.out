@@ -1,0 +1,438 @@
+{
+  "entries": [
+    {
+      "color": "blue", 
+      "first": "Maurita", 
+      "last": "Awong", 
+      "phone": "0619371243", 
+      "zip": "15726"
+    }, 
+    {
+      "color": "blue", 
+      "first": "Hyo", 
+      "last": "Ballentine", 
+      "phone": "1824245300", 
+      "zip": "21351"
+    }, 
+    {
+      "color": "blue", 
+      "first": "Darline", 
+      "last": "Barbeau", 
+      "phone": "2606197450", 
+      "zip": "11027"
+    }, 
+    {
+      "color": "aquamarine", 
+      "first": "Laurie", 
+      "last": "Breland", 
+      "phone": "0878534995", 
+      "zip": "44359"
+    }, 
+    {
+      "color": "yellow", 
+      "first": "Kelsi", 
+      "last": "Butterfield", 
+      "phone": "9671964953", 
+      "zip": "05644"
+    }, 
+    {
+      "color": "red", 
+      "first": "Clarinda", 
+      "last": "Cadena", 
+      "phone": "6666217485", 
+      "zip": "09517"
+    }, 
+    {
+      "color": "red", 
+      "first": "Kerri", 
+      "last": "Chandler", 
+      "phone": "8182465061", 
+      "zip": "32868"
+    }, 
+    {
+      "color": "gray", 
+      "first": "Mazie", 
+      "last": "Chavis", 
+      "phone": "2180972208", 
+      "zip": "48843"
+    }, 
+    {
+      "color": "red", 
+      "first": "Blair", 
+      "last": "Clary", 
+      "phone": "4631182451", 
+      "zip": "07256"
+    }, 
+    {
+      "color": "yellow", 
+      "first": "Armand", 
+      "last": "Davis", 
+      "phone": "2407364719", 
+      "zip": "64320"
+    }, 
+    {
+      "color": "red", 
+      "first": "Kent", 
+      "last": "Demming", 
+      "phone": "6227200550", 
+      "zip": "37820"
+    }, 
+    {
+      "color": "pink", 
+      "first": "Beata", 
+      "last": "Dhillon", 
+      "phone": "8436614252", 
+      "zip": "90022"
+    }, 
+    {
+      "color": "pink", 
+      "first": "Shanika", 
+      "last": "Dodd", 
+      "phone": "9407610886", 
+      "zip": "82733"
+    }, 
+    {
+      "color": "pink", 
+      "first": "Aura", 
+      "last": "Eilers", 
+      "phone": "4896349504", 
+      "zip": "39358"
+    }, 
+    {
+      "color": "green", 
+      "first": "Myrtice", 
+      "last": "Ferro", 
+      "phone": "5688213874", 
+      "zip": "95836"
+    }, 
+    {
+      "color": "gray", 
+      "first": "Prince", 
+      "last": "Gabler", 
+      "phone": "6452007094", 
+      "zip": "08291"
+    }, 
+    {
+      "color": "blue", 
+      "first": "Magaly", 
+      "last": "Gregor", 
+      "phone": "6985137428", 
+      "zip": "86286"
+    }, 
+    {
+      "color": "aquamarine", 
+      "first": "Mirian", 
+      "last": "Hankey", 
+      "phone": "1807391295", 
+      "zip": "22172"
+    }, 
+    {
+      "color": "red", 
+      "first": "Marita", 
+      "last": "Haugland", 
+      "phone": "0346147966", 
+      "zip": "21231"
+    }, 
+    {
+      "color": "pink", 
+      "first": "Robert", 
+      "last": "Hood", 
+      "phone": "0548136030", 
+      "zip": "47784"
+    }, 
+    {
+      "color": "red", 
+      "first": "Englebert G.", 
+      "last": "Humperdink", 
+      "phone": "8390148051", 
+      "zip": "36410"
+    }, 
+    {
+      "color": "gray", 
+      "first": "James", 
+      "last": "Johnston", 
+      "phone": "6281023672", 
+      "zip": "38410"
+    }, 
+    {
+      "color": "blue", 
+      "first": "Magan", 
+      "last": "Leedy", 
+      "phone": "8963917308", 
+      "zip": "48680"
+    }, 
+    {
+      "color": "yellow", 
+      "first": "Quinton", 
+      "last": "Liptak", 
+      "phone": "6538897235", 
+      "zip": "70703"
+    }, 
+    {
+      "color": "blue", 
+      "first": "Annalee", 
+      "last": "Loftis", 
+      "phone": "9053292054", 
+      "zip": "97296"
+    }, 
+    {
+      "color": "pink", 
+      "first": "Bernie", 
+      "last": "Mallette", 
+      "phone": "8599242843", 
+      "zip": "17300"
+    }, 
+    {
+      "color": "gray", 
+      "first": "Fatimah", 
+      "last": "Mccaster", 
+      "phone": "8543457518", 
+      "zip": "57693"
+    }, 
+    {
+      "color": "blue", 
+      "first": "Earlene", 
+      "last": "Merryman", 
+      "phone": "3059878362", 
+      "zip": "86258"
+    }, 
+    {
+      "color": "blue", 
+      "first": "Justin", 
+      "last": "Miller", 
+      "phone": "6577437189", 
+      "zip": "58979"
+    }, 
+    {
+      "color": "pink", 
+      "first": "Shela", 
+      "last": "Mona", 
+      "phone": "9862836066", 
+      "zip": "11198"
+    }, 
+    {
+      "color": "pink", 
+      "first": "Hung", 
+      "last": "Moxley", 
+      "phone": "6671329000", 
+      "zip": "93381"
+    }, 
+    {
+      "color": "green", 
+      "first": "Theo", 
+      "last": "Parrish", 
+      "phone": "4233343136", 
+      "zip": "60128"
+    }, 
+    {
+      "color": "aquamarine", 
+      "first": "Andy", 
+      "last": "Patnaude", 
+      "phone": "6127128471", 
+      "zip": "29198"
+    }, 
+    {
+      "color": "pink", 
+      "first": "Darcie", 
+      "last": "Phoenix", 
+      "phone": "8549107619", 
+      "zip": "55806"
+    }, 
+    {
+      "color": "aqua marine", 
+      "first": "Len", 
+      "last": "Pollack", 
+      "phone": "6425736473", 
+      "zip": "29868"
+    }, 
+    {
+      "color": "yellow", 
+      "first": "Jacques", 
+      "last": "Renault", 
+      "phone": "1573488325", 
+      "zip": "00328"
+    }, 
+    {
+      "color": "blue", 
+      "first": "Sabina", 
+      "last": "Saltsman", 
+      "phone": "5777679995", 
+      "zip": "81360"
+    }, 
+    {
+      "color": "pink", 
+      "first": "France", 
+      "last": "Schuetz", 
+      "phone": "7327294104", 
+      "zip": "09893"
+    }, 
+    {
+      "color": "aqua marine", 
+      "first": "Margarete", 
+      "last": "Stickle", 
+      "phone": "8056120845", 
+      "zip": "92493"
+    }, 
+    {
+      "color": "blue", 
+      "first": "Kristeen", 
+      "last": "Swearingen", 
+      "phone": "2384406451", 
+      "zip": "60460"
+    }, 
+    {
+      "color": "aqua marine", 
+      "first": "Ria", 
+      "last": "Tillotson", 
+      "phone": "1969105548", 
+      "zip": "97671"
+    }, 
+    {
+      "color": "pink", 
+      "first": "Gladis", 
+      "last": "Tubb", 
+      "phone": "4549346454", 
+      "zip": "73149"
+    }, 
+    {
+      "color": "gray", 
+      "first": "Reinaldo", 
+      "last": "Vandermeer", 
+      "phone": "7516655618", 
+      "zip": "76589"
+    }, 
+    {
+      "color": "red", 
+      "first": "Theodora", 
+      "last": "Whipkey", 
+      "phone": "8086331734", 
+      "zip": "54450"
+    }, 
+    {
+      "color": "aqua marine", 
+      "first": "George", 
+      "last": "Won", 
+      "phone": "4880845794", 
+      "zip": "97148"
+    }, 
+    {
+      "color": "green", 
+      "first": "Azzie", 
+      "last": "Zabriskie", 
+      "phone": "1105741904", 
+      "zip": "94339"
+    }
+  ], 
+  "error_details": [
+    {
+      "error": "badzip: 123123121", 
+      "line": "Noah, Moench, 123123121, 232 695 2394, yellow\n", 
+      "record": 0
+    }, 
+    {
+      "error": "nocomma", 
+      "line": "0.547777482345\n", 
+      "record": 5
+    }, 
+    {
+      "error": "badphone: 5551111111111111", 
+      "line": "McGrath, Luke, (555)-11111-11111111, gray, 70646\n", 
+      "record": 7
+    }, 
+    {
+      "error": "badzip: 123123121", 
+      "line": "Natashia Gustavson, yellow, 123123121, 920 018 5207\n", 
+      "record": 15
+    }, 
+    {
+      "error": "badphone: 5551111111111111", 
+      "line": "Pardini, Mack, (555)-11111-11111111, blue, 17058\n", 
+      "record": 16
+    }, 
+    {
+      "error": "badphone: 5551111111111111", 
+      "line": "Julian, Fanning, 82820, 555 11111 11111111, red\n", 
+      "record": 29
+    }, 
+    {
+      "error": "nocomma", 
+      "line": "0.429926275625\n", 
+      "record": 37
+    }, 
+    {
+      "error": "badphone: 5551111111111111", 
+      "line": "Nurse, Corliss, (555)-11111-11111111, red, 47185\n", 
+      "record": 38
+    }, 
+    {
+      "error": "nocomma", 
+      "line": "0.449778662506\n", 
+      "record": 41
+    }, 
+    {
+      "error": "badphone: 5551111111111111", 
+      "line": "Dawn, Osvaldo, (555)-11111-11111111, pink, 81087\n", 
+      "record": 43
+    }, 
+    {
+      "error": "nocomma", 
+      "line": "0.513220696303\n", 
+      "record": 44
+    }, 
+    {
+      "error": "badphone: 5551111111111111", 
+      "line": "Jay, Nathaniel, (555)-11111-11111111, red, 16398\n", 
+      "record": 45
+    }, 
+    {
+      "error": "badzip: 123123121", 
+      "line": "Cordova, Ken, (555)-11111-11111111, blue, 123123121\n", 
+      "record": 47
+    }, 
+    {
+      "error": "badphone: 5551111111111111", 
+      "line": "Manuel Canipe, blue, 16018, 555 11111 11111111\n", 
+      "record": 48
+    }, 
+    {
+      "error": "badzip: 123123121", 
+      "line": "Mcclusky, Isabell, (676)-545-7599, pink, 123123121\n", 
+      "record": 49
+    }, 
+    {
+      "error": "nocomma", 
+      "line": "0.261329218422\n", 
+      "record": 56
+    }, 
+    {
+      "error": "badphone: 5551111111111111", 
+      "line": "Marin Munden, aqua marine, 82431, 555 11111 11111111\n", 
+      "record": 57
+    }, 
+    {
+      "error": "badzip: 123123121", 
+      "line": "Rachele, Maze, 123123121, 041 740 9337, aqua marine\n", 
+      "record": 62
+    }
+  ], 
+  "errors": [
+    0, 
+    5, 
+    7, 
+    15, 
+    16, 
+    29, 
+    37, 
+    38, 
+    41, 
+    43, 
+    44, 
+    45, 
+    47, 
+    48, 
+    49, 
+    56, 
+    57, 
+    62
+  ]
+}
