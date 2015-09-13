@@ -365,7 +365,7 @@ def ValidateFile():
         print "Validation OK. %s == %s" % (data_file_name, canonical_output_file)
 
 
-def percolatetest_main():
+def percolate_main():
     print "Main start"
     try:
         ProcessArgs(sys.argv)
@@ -393,4 +393,4 @@ def percolatetest_main():
     print "Main complete"
 
 if __name__ == '__main__':
-    percolatetest_main()
+    percolate_main()
