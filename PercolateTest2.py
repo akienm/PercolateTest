@@ -39,6 +39,7 @@ import re
 import json
 import filecmp
 import traceback
+import time
 
 test_mode = False
 verbose_mode = False
@@ -76,7 +77,13 @@ class ERootException(Exception):
 class EFileNotFound(ERootException, IOError):
     def __init__(self, **kwargs):
         self.d = Bag(kwargs)
-        self.message = "Error: File not found: " + self.d.filename
+        if "filename" in self.d:
+            message = self.d.filename
+        elif "message" in self.d:
+            message = self.d.message
+        else:
+            message = "(filename not provided when error raised)"
+        self.message = "Error: File not found: " + message
         self.number = 3
 
 
@@ -116,7 +123,6 @@ def PrintUsage():
     print "5 - i/o error during input read\n"
     # True means function completed successfully
     raise ENone
-
 
 
 def ProcessArgs(arglist):
@@ -170,10 +176,12 @@ def ProcessArgs(arglist):
         if "-v" in arglist:
             verbose_mode = True
             arglist.remove("-v")
+        if len(arglist) == 0:
+            raise EInvalidArguments(message="No filename passed")
         data_file_name = arglist[0]
         # validate file
         if not os.path.isfile(data_file_name):
-            raise EFileNotFound(message="input file:" + data_file_name)
+            raise EFileNotFound(filename="input file: " + data_file_name)
 
     # return values can be used for testing
     raise ENone
@@ -367,6 +375,7 @@ def ValidateFile():
 
 def percolate_main():
     print "Main start"
+    time.sleep(0.001)   # otherwise argument exceptions showed up on the same line during testing
     try:
         ProcessArgs(sys.argv)
     except ENone:
